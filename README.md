@@ -15,7 +15,7 @@ in your **documents folder** create:
   
   2. Apps - for .exe and .msi files
 
-  3. Unknown - for whatever the script fails to move
+  3. Unknown - for whatever the script fails to identify
 
 ## Cloning this repo
 
